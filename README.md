@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Valenterie
-- 👀 I’m interested in nothing.
-- 🌱 I’m currently learning how to live like a real human-being.
-- 💞️ I’m looking to collaborate on life and supply to live longer than a wasp.
-- 📫 How to reach me ? With a ball or a knife, but I'd appreciate with a hug.
+# 👋 Hi, I’m @Valenterie
+## 👨‍🎓 I’m studying in Toulouse, France 🇫🇷, in electronics.
+## 🗄️ I’m currently learning __C++__ and __Python__, oriented in _embedded systems_.
+## ➡️ I’m looking to collaborate on projects to gain experience in these domains.
+## 📫 How to reach me : 
+- __e-mail__ : 📩 valentin.lafon@etu.iut-tlse3.fr
+- __LinkedIn__ : 👨‍💼 https://www.linkedin.com/in/valentin-lafon-764820265/
